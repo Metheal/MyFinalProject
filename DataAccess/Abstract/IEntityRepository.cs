@@ -1,10 +1,10 @@
-﻿using Core.Entities;
+﻿using Entities.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Core.DataAccess
+namespace DataAccess.Abstract
 {
     // generic constraint
     // class: referans tip
